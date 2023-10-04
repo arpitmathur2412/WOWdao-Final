@@ -1,0 +1,16 @@
+.nav-brand{
+    color: white;
+    text-decoration: solid;
+    font-size: 170%;
+    margin-left: 2%;
+}
+
+.btn2{
+    margin-left: 5%;
+}
+
+.navbar{
+    background: rgb(222,32,167);
+    background: linear-gradient(325deg, rgba(222,32,167,1) 0%, rgba(105,19,190,1) 90%);
+    height: 10%;
+}

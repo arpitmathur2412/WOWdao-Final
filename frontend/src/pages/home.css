@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.img{
+    border: solid;
+    border-color: white;
+}
